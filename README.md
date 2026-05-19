@@ -197,6 +197,8 @@ with torch.no_grad():
 
 ---
 
+![image alt](https://github.com/Anurag1466/CNN-Image-Classification-using-CIFAR-10/blob/6e199e11ccb6cb98b8e846a147c87aec51aa02cb/Screenshot%202026-05-19%20180221.png)
+
 # Project Structure
 
 ```text
